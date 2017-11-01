@@ -1,0 +1,21 @@
+{
+    "AudioWrongState": "Lyd funktionen skal være sat til enten **Restrictive** or **Selective** for at bruge denne kommando.",
+    "UserAlreadyHasAudioPerms": "Denne bruger har allerede tilladelse til at bruge lyd.",
+    "UserGrantedAudioPerms": "Ok, {{member}} har nu tilladelse til at bruge lyd!",
+    "AdminActionElevatedClient": "Jeg kan ikke udføre en administrativ handling mod en bruger med højere rank!",
+    "AdminActionElevatedUser": "Jeg vil ikke udføre en administrativ handling mod en bruger med højere rank end dig!",
+    "BanConfirm": "Banned {{member}} fra serveren.",
+    "LookupViewConfirm": "Set! Dine lookups vil nu blive vist på {{args.lookup}} måden.",
+    "UserAlreadyDeniedAudioPerms": "Denne bruger er allerede forhindret i at bruge lyd.",
+    "UserDeniedAudioPerms": "ok, {{member}} er nu forhindret i at bruge lyd.",
+    "KickConfirm": "Smed ${member} af serveren.",
+    "QuiteModeConfirm": "Set! Stille funktionen er nu {{mode}}",
+    "ResetServerPrompt": "Er du sikker på du vil gøre dette? Dette vil sætte Jeeves og alt tilbage til grundindstillingerne - ALT - `confirm` `cancel`",
+    "ResetServerConfirm": "Jeg har slettet min opsætning for denne server.",
+    "SetupMultipleSessions": "Du kan ikke starte en ny opsætnings session mens en anden allerede er i gang.",
+    "SetupComplete": "Ok! Vi har færdiggjort opsætningen! For yderligere hjælp check help info eller besøg Jeeves Serveren @ https://discord.gg/rYRFKpz",
+    "SetupSkip": "Ok, vi kan springe denne indstilling over. Lad os fortsætte den til næste",
+    "SetupCancel": "Ok - Stopper opsætnings processen. Hvis du har brug for hjælp - Besøg Jeeves Serveren @ https://discord.gg/rYRFKpz",
+    "SetupAFK": "Whoops - Det ser ud som om du var afk - Du kan bruge kommandoen `{{prefix}}setup` for at starte opsætningen igen.",
+    "InvalidSetting": "Det ser ud som om {{setting}} ikke er en tilgængelig indstilling. Check hjælpe funktionen for flere detajler."
+}
