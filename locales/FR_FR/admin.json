@@ -1,0 +1,21 @@
+{
+    "AudioWrongState": "Le mode audio doit être défini sur **Restrictive** ou **Selective** pour utiliser cette commande.",
+    "UserAlreadyHasAudioPerms": "Cet utilisateur est déjà autorisé à utiliser l'audio.",
+    "UserGrantedAudioPerms": "Ok, {{member}} est maintenant autorisé à utiliser l'audio !",
+    "AdminActionElevatedClient": "Je ne peux pas administrer un utilisateur avec un rang plus élevé que le mien !",
+    "AdminActionElevatedUser": "Je ne vais pas administrer un utilisateur avec un rang plus élevé que le votre !",
+    "BanConfirm": "{{member}} banni du serveur.",
+    "LookupViewConfirm": "Fait ! Votre lookups sera formatté dans la vue {{args.lookup}}.",
+    "UserAlreadyDeniedAudioPerms": "Cet utilisateur a déjà l'interdiction d'utiliser l'audio.",
+    "UserDeniedAudioPerms": "Ok, {{member}} n'a plus accès à l'audio dorénavant.",
+    "KickConfirm": "Kick ${member} du serveur.",
+    "QuiteModeConfirm": "Fait ! Quite Mode est maintenant {{mode}}",
+    "ResetServerPrompt": "Êtes-vous sur de vouloir faire cela ? Cela va reset TOUS les paramètres de Jeeves pour ce serveur - TOUT - `Confirmer` `Annuler`",
+    "ResetServerConfirm": "J'ai supprimé mes paramètres pour ce serveur.",
+    "SetupMultipleSessions": "Vous ne pouvez pas lancer une autre session de configuration pendant qu'une est déjà en cours.",
+    "SetupComplete": "C'est tout ! Nous avons fini le paramétrage ! Pour plus d'informations, lisez la documentation ou rendez-vous sur le serveur de Jeeves @ https://discord.gg/rYRFKpz",
+    "SetupSkip": "Ok, on peut passer ce paramètre. Passons au suivant.",
+    "SetupCancel": "Ok - Annulation du process de configuration. Si vous avez besoin d'aide - Rendez-vous sur le serveur de Jeeves @ https://discord.gg/rYRFKpz",
+    "SetupAFK": "Whoops - Il semblerait que vous êtes afk - Vous pouvez lancer `{{prefix}}setup` pour relancer la configuration à tout moment.",
+    "InvalidSetting": "Il semblerait que {{setting}} n'est pas un paramètre valide. Vérifiez l'aide pour plus de détails sur cette commande."
+}
