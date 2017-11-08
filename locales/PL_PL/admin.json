@@ -1,0 +1,21 @@
+{
+    "AudioWrongState": "Aby używać tej komendy, tryb audio musi być ustawiony na opcję **Restrictive** lub **Selective**.",
+    "UserAlreadyHasAudioPerms": "Ten użytkownik już ma pozwolenie na korzystanie z audio.",
+    "UserGrantedAudioPerms": "Ok, {{member}} ma pozwolenie na używanie audio!",
+    "AdminActionElevatedClient": "Nie mogę użyć przywilejów administratora przeciwko komuś o wyższej randze od mojej!",
+    "AdminActionElevatedUser": "Nie użyję przywilejów administratora przeciwko komuś o wyższej randze od twojej!",
+    "BanConfirm": "Zbanowano {{member}} z serwera.",
+    "LookupViewConfirm": "Ustawiono! Twoje podglądy będą teraz formatowane według widoku {{args.lookup}} .",
+    "UserAlreadyDeniedAudioPerms": "Ten użytkownik ma już zakaz korzystania z audio.",
+    "UserDeniedAudioPerms": "Ok, {{member}} ma teraz zakaz korzystania z audio.",
+    "KickConfirm": "Wyrzucono ${member} z serwera.",
+    "QuiteModeConfirm": "Ustawiono! Tryb cichy jest teraz {{mode}}",
+    "ResetServerPrompt": "Czy na pewno chcesz to zrobić? To spowoduje całkowity reset wszystkich ustawień Jeevesa na tym serwerze - WSZYSTKICH - `confirm` `cancel`",
+    "ResetServerConfirm": "Pozbyłem się wszystkich moich ustawień dla tego serwera",
+    "SetupMultipleSessions": "Nie możesz uruchomić nowej sesji konfiguracyjnej podczas trwania",
+    "SetupComplete": "W porządku, to jest to! Zakończyliśmy konfigurację! Jeżeli potrzebujesz pomocy sprawdź dokumentację lub odwiedź serwer Jeevesa @ https://discord.gg/rYRFKpz",
+    "SetupSkip": "Ok możemy pominąć to ustawienie. Przejdźmy do następnego",
+    "SetupCancel": "Ok - anulowanie procesu konfiguracji. Jeśli potrzebujesz pomocy - odwiedź serwer Jeevesa @ https://discord.gg/rYRFKpz",
+    "SetupAFK": "Ups - Wygląda na to, że ktoś jest afk - Możesz użyć komendy `{{prefix}}setup` aby uruchomić konfigurację w dowolnym momencie.",
+    "InvalidSetting": "Wygląda na to, że {{setting}} nie jest prawidłowym ustawieniem. Sprawdź dokumentację pomocy dla tej komendy aby otrzymać "
+}
