@@ -5,7 +5,7 @@
     "AdminActionElevatedClient": "Eu não posso tomar medidas administrativas contra alguém com nível maior que o meu!",
     "AdminActionElevatedUser": "Eu não posso tomar medidas administrativas contra alguém com nível maior que o seu!",
     "BanConfirm": "Bani {{member}} do servidor.",
-    "LookupViewConfirm": "Pronto! As pesquisas de personagem serão exibidas no modo {{args.lookup}}.",
+    "LookupViewConfirm": "Pronto! As pesquisas serão exibidas no modo {{args.lookup}}.",
     "UserAlreadyDeniedAudioPerms": "Este usuário já está proibido de usar áudio.",
     "UserDeniedAudioPerms": "Pronto, {{member}} agora está proibido de usar áudio.",
     "KickConfirm": "Expulsei ${member} do servidor.",
